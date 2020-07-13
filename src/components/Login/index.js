@@ -32,7 +32,7 @@ const Login = () => {
 
   return (
     <React.Fragment>
-      <h1 className="mb-4">Login to Maui App</h1>
+      <h1 className="mb-4">Login to Steph's App</h1>
       <Form onSubmit={handleForm}>
         <FormGroup>
           <Label>Email</Label>

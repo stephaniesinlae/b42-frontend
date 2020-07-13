@@ -37,7 +37,7 @@ const Signup = () => {
 
   return (
     <React.Fragment>
-      <h1 className="mb-4">Signup on Maui App</h1>
+      <h1 className="mb-4">Signup on Steph's App</h1>
       <Form onSubmit={handleForm}>
         <FormGroup>
           <Label>First Name</Label>

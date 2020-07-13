@@ -22,7 +22,7 @@ const Navigation = () => {
      className="navbar navbar-dark bg-dark"
      // style={{ backgroundColor: "black", color: "red" }}
      expand="md">
-     <NavbarBrand tag={Link} to="/">Maui App</NavbarBrand>
+     <NavbarBrand tag={Link} to="/">Steph's App</NavbarBrand>
      <NavbarToggler onClick={toggle} />
      <Collapse isOpen={isOpen} navbar>
        <Nav className="mr-auto" navbar>
